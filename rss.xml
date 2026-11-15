@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>VIVID ART</title>
+  <link>https://vividart.pages.dev/</link>
+  <description>VIVID ART 비비드아트 — Personal Design Studio</description>
+  <language>ko</language>
+  <lastBuildDate>Sun, 15 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <atom:link href="https://vividart.pages.dev/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>VIVID ART — Personal Design Studio</title>
+    <link>https://vividart.pages.dev/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/</guid>
+    <description>눈썹 · 헤어라인 · 두피 디자인 퍼스널 디자인 스튜디오</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>BRAND — VIVID ART</title>
+    <link>https://vividart.pages.dev/brand/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/brand/</guid>
+    <description>브랜드 · 대표원장 소개</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>PROGRAM — VIVID ART</title>
+    <link>https://vividart.pages.dev/program/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/program/</guid>
+    <description>눈썹 · 헤어라인 · 두피 디자인 프로그램과 진행 과정</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>WORK — VIVID ART</title>
+    <link>https://vividart.pages.dev/work/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/work/</guid>
+    <description>실제 작업 사례와 고객 후기</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>JOURNAL — VIVID ART</title>
+    <link>https://vividart.pages.dev/journal/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/journal/</guid>
+    <description>시술 전에 알아두면 좋은 이야기</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>CONTACT — VIVID ART</title>
+    <link>https://vividart.pages.dev/contact/</link>
+    <guid isPermaLink="true">https://vividart.pages.dev/contact/</guid>
+    <description>상담 문의 · 오시는 길</description>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
+</channel>
+</rss>
