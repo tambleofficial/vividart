@@ -1,1 +1,7 @@
-{ "m": {} }
+{
+  "m": {
+    "slot:home-method-center": "/assets/uploads/20261116112400-6rt39.jpg",
+    "slot:home-review-4": "/assets/uploads/20261116112400-wyaqc.jpg",
+    "slot:home-review-5": "/assets/uploads/20261116112400-r7jna.jpg"
+  }
+}
